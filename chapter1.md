@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Baseline Model
+
+```yaml
+type: VideoExercise
+key: 50c7b3ff4d
+xp: 50
+```
+
+`@projector_key`
+38086466ef7244576a066cefcf1affa2
